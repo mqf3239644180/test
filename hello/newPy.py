@@ -1,5 +1,4 @@
 #文件测试
 print("************")
 print("zzzzzzzzzz")
-print("xxxxxxxxxxxxxxx")
-print("sssssssssssssss")
+print("bbbbbbb")
