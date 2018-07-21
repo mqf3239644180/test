@@ -2,5 +2,4 @@
 print("************")
 print("zzzzzzzzzz")
 print("bbbbbbb")
-print(">>>>>>>>>>>>>>>>>>>>>>.")
-print("ccccccccc")
+print("ssssssss")
