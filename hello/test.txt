@@ -2,8 +2,5 @@ hahahahahhahhhahahh`
 测试数据lala
 是的
 aaaaaaaaaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
-嘿嘿
-=======
 哈哈哈哈哈哈
 >>>>>>> 753140f8874bc9d7c44704b564cb18e40bfb6fbe
